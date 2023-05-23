@@ -6,4 +6,4 @@ Programmerere har brukt versjonskontrollsystemer (VCS) til å håndtere endringe
 
 Git og plattformer som GitHub gir deg muligheten til å spore endringer på tvers av mange filer. Du kan dele dine prosjekter med andre, enten privat eller i full offentlighet. Systemet er en viktig brikke innen Open Source hvor fremmede samarbeider om å utvikle store og små applikasjoner.
 
-Dette kurset vil gi deg en innføring i hvordan Git og GitHub fungerer. Du vil lære hvordan kan ta i bruk Git og GitHub i din egen hverdag. Først vil du lære hvordan Git sporer endringer og hvordan dette kan være nyttig, til og med i prosjekter hvor du jobber alene. Deretter blir du kjent med samarbeidsfunksjonaliteten i Git og Git.
+Dette kurset vil gi deg en innføring i hvordan Git og GitHub fungerer. Du vil lære hvordan kan ta i bruk Git og GitHub i din egen hverdag. Først vil du lære hvordan Git sporer endringer og hvordan dette kan være nyttig, til og med i prosjekter hvor du jobber alene
